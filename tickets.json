@@ -1,0 +1,32 @@
+[
+    {
+        "requester": "Bea",
+        "description": "the system doesn't shut down automatically after hours anymore",
+        "category": "hardware",
+        "priority": "medium"
+    },
+    {
+        "requester": "Tarsha",
+        "description": "The DSP went down in Symphony",
+        "category": "network",
+        "priority": "high"
+    },
+    {
+        "requester": "Kate",
+        "description": "The forklift won't lift anymore",
+        "category": "hardware",
+        "priority": "high"
+    },
+    {
+        "requester": "Jodie",
+        "description": "The SharePoint folder won't let me in",
+        "category": "access",
+        "priority": "medium"
+    },
+    {
+        "requester": "Mel",
+        "description": "Please give me access to the 2027 APD folder",
+        "category": "access",
+        "priority": "low"
+    }
+]
